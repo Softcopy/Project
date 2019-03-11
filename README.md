@@ -5,7 +5,7 @@ Server.dll, and server downloads for the Ch1ckenscoop Alien Swarm on Reactivedro
 
 ---
 
-##### Project Home | [`Downloads`](https://github.com/softcopy/Downloads) | [`Wiki`](https://github.com/softcopy/svn/tree/master/wiki) |
+##### Project Home | [`Downloads`](https://github.com/softcopy/Downloads) | [`Wiki`](https://github.com/softcopy/svn-rd/blob/master/wiki) |
 
 ##### Featured
 * [**InstallServer**](https://github.com/softcopy/svn-rd/blob/master/wiki/InstallServer.wiki)
