@@ -1,8 +1,8 @@
-<a href=https://github.com/Ch1ckenscoop/Project><img align=left src=https://github.com/Ch1ckenscoop/svn/blob/master/wiki/ch1ckenscoop_logo.jpg width=122/></a>
-[]()
-
 
 <a href=http://github.com/Ch1ckenscoop/Project><img align=right src=https://github.com/Ch1ckenscoop/svn/blob/master/wiki/googlecode-home.png /></a>
+[]()
+
+<a href=https://github.com/Ch1ckenscoop/Project><img align=left src=https://github.com/Ch1ckenscoop/svn/blob/master/wiki/ch1ckenscoop_logo.jpg width=122/></a>
 []()
 
 ###### Ch1ckenscoop ASW<a href=https://github.com/Ch1ckenscoop/Project><img align=center src=https://github.com/Ch1ckenscoop/svn/blob/master/wiki/asw_logo.png width=38/></a>
