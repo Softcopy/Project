@@ -1,7 +1,7 @@
 <a href=https://github.com/Ch1ckenscoop/Project><img align=left src=https://github.com/Ch1ckenscoop/svn/blob/master/wiki/ch1ckenscoop_logo.jpg width=122/></a>
 []()
 
-<a href=https://github.com/Ch1ckenscoop/Project><img align=left src=https://github.com/softcopy/svn-rd/blob/master/wiki/asw_reactivedrop_logo.png width=65/></a>
+<a href=https://github.com/Ch1ckenscoop/Project><img align=left src=https://github.com/softcopy/svn-rd/blob/master/wiki/asw_reactivedrop_logo.png width=67/></a>
 []()
 
 <a href=http://github.com/Ch1ckenscoop/Project><img align=right src=https://github.com/Ch1ckenscoop/svn/blob/master/wiki/googlecode-home.png /></a>
