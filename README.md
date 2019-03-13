@@ -27,4 +27,4 @@ Server.dll, and server downloads for the Ch1ckenscoop Alien Swarm on Reactivedro
  * License:  [GNU GPL v3](http://www.gnu.org/licenses/gpl-3.0-standalone.html)
  * svn-based source control
 
- ###### Now the Ch1ckenscoop Reactivedrop Server is running fully Ch1ckenscoop mod style.
+###### The Ch1ckenscoop Reactivedrop Server now is running fully Ch1ckenscoop mod style.
