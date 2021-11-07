@@ -19,7 +19,6 @@ Server.dll, and server downloads for the Ch1ckenscoop Alien Swarm on Reactivedro
 
 ##### Featured
 * [**InstallServer**](https://github.com/softcopy/svn-rd/blob/master/wiki/InstallServer.wiki)
-* [`Server batch download`](https://github.com/Softcopy/svn-rd/blob/master/wiki/batch_download.wiki)
 * [`Changing Settings`](https://github.com/softcopy/svn-rd/blob/master/wiki/Changing_Settings.wiki)
 * [`Hordemode`](https://github.com/softcopy/svn-rd/blob/master/wiki/Hordemode.wiki)
 * [`Show all`](https://github.com/softcopy/svn-rd/tree/master/server/reactivedrop/cfg) 
